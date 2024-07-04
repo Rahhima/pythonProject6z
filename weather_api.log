@@ -1,0 +1,21 @@
+ERROR:root:API request failed: 401 Client Error: Unauthorized for url: https://openweathermap.org/data/2.5/weather?appid=8b3e8b8f1ad037250d53e024c138e16&q=Los%20Angeles
+ERROR:root:API request failed: 401 Client Error: Unauthorized for url: https://openweathermap.org/data/2.5/weather?appid=8b3e8b8f1ad037250d53e024c138e16&q=Los%20Angeles
+ERROR:root:API request failed: 401 Client Error: Unauthorized for url: https://openweathermap.org/data/2.5/weather?appid=8b3e8b8f1ad037250d53e024c138e16&q=Los%20Angeles
+ERROR:root:API request failed: 401 Client Error: Unauthorized for url: https://openweathermap.org/data/2.5/weather?appid=8b3e8b8f1ad037250d53e024c138e16&q=Los%20Angeles
+ERROR:root:API request failed: 401 Client Error: Unauthorized for url: https://openweathermap.org/data/2.5/weather?appid=8b3e8b8f1ad037250d53e024c138e16&q=Los%20Angeles
+ERROR:root:API request failed: 401 Client Error: Unauthorized for url: https://openweathermap.org/data/2.5/weather?appid=8b3e8b8f1ad037250d53e024c138e16&q=Los%20Angeles
+ERROR:root:API request failed: HTTPSConnectionPool(host='openweathermap.orgappid=b3e75979e3e807cb3d4a1ebaaf080cbc&q=los%20angeles', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000010554266FF0>: Failed to resolve 'openweathermap.orgappid=b3e75979e3e807cb3d4a1ebaaf080cbc&q=los%20angeles' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:API request failed: HTTPSConnectionPool(host='openweathermap.orgappid=b3e75979e3e807cb3d4a1ebaaf080cbc&q=los%20angeles', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000105548F4D70>: Failed to resolve 'openweathermap.orgappid=b3e75979e3e807cb3d4a1ebaaf080cbc&q=los%20angeles' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:API request failed: HTTPSConnectionPool(host='openweathermap.orgappid=b3e75979e3e807cb3d4a1ebaaf080cbc&q=los%20angeles', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000105548F53D0>: Failed to resolve 'openweathermap.orgappid=b3e75979e3e807cb3d4a1ebaaf080cbc&q=los%20angeles' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:API request failed: 401 Client Error: Unauthorized for url: https://openweathermap.org/data/2.5/weather?appid=8b3e8b8f1ad037250d53e024c138e16&q=Los%20Angeles
+ERROR:root:API request failed: 401 Client Error: Unauthorized for url: https://openweathermap.org/data/2.5/weather?appid=8b3e8b8f1ad037250d53e024c138e16&q=Los%20Angeles
+ERROR:root:API request failed: 504 Server Error: Gateway Time-out for url: https://openweathermap.org/data/2.5/weather?appid=8b3e8b8f1ad037250d53e024c138e16&q=Los%20Angeles
+ERROR:root:API request failed: 401 Client Error: Unauthorized for url: https://openweathermap.org/data/2.5/weather?appid=8b3e8b8f1ad037250d53e024c138e16&q=Los%20Angeles
+ERROR:root:API request failed: 401 Client Error: Unauthorized for url: https://openweathermap.org/data/2.5/weather?appid=8b3e8b8f1ad037250d53e024c138e16&q=Los%20Angeles
+ERROR:root:API request failed: 401 Client Error: Unauthorized for url: https://openweathermap.org/data/2.5/weather?appid=8b3e8b8f1ad037250d53e024c138e16&q=Los%20Angeles
+ERROR:root:API request failed: 401 Client Error: Unauthorized for url: https://openweathermap.org/data/2.5/weather?appid=8b3e8b8f1ad037250d53e024c138e16&q=Los%20Angeles
+ERROR:root:API request failed: 401 Client Error: Unauthorized for url: https://openweathermap.org/data/2.5/weather?appid=8b3e8b8f1ad037250d53e024c138e16&q=Los%20Angeles
+ERROR:root:API request failed: 401 Client Error: Unauthorized for url: https://openweathermap.org/data/2.5/weather?appid=8b3e8b8f1ad037250d53e024c138e16&q=Los%20Angeles
+ERROR:root:API request failed: 401 Client Error: Unauthorized for url: https://openweathermap.org/data/2.5/weather?appid=8b3e8b8f1ad037250d53e024c138e16&q=London
+ERROR:root:API request failed: 401 Client Error: Unauthorized for url: https://openweathermap.org/data/2.5/weather?appid=8b3e8b8f1ad037250d53e024c138e16&q=London
+ERROR:root:API request failed: 401 Client Error: Unauthorized for url: https://openweathermap.org/data/2.5/weather?appid=8b3e8b8f1ad037250d53e024c138e16&q=London
